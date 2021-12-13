@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ProjectAlpha",
+    "isDir": true,
+    "extension": "",
+    "childrenList": [
+      {
+        "name": "src",
+        "extension": "",
+        "isDir": true,
+        "childrenList": [
+          {
+            "name": "Components",
+            "extension": "",
+            "isDir": true,
+            "childrenList": [
+              {
+                "name": "Breadcrumb",
+                "extension": "",
+                "isDir": true,
+                "childrenList": [
+                  {
+                    "name": "Breadcrumb",
+                    "extension": "jsx",
+                    "isDir": false,
+                    "childrenList": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ProjectBeta",
+    "extension": "",
+    "isDir": true,
+    "childrenList": [
+      {
+        "name": "src",
+        "extension": "",
+        "isDir": true,
+        "childrenList": [
+          {
+            "name": "Breadcrumb",
+            "extension": "",
+            "isDir": false,
+            "childrenList": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ProjectDelta",
+    "isDir": true,
+    "extension": "",
+    "childrenList": []
+  },
+  {
+    "name": "ReadMe",
+    "isDir": false,
+    "extension": "",
+    "childrenList": []
+  }
+]
